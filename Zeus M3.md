@@ -11,3 +11,7 @@ You must remove the bottom skates to access the screws for teardown
 ![20220219_003103](https://user-images.githubusercontent.com/26210075/154787869-fed16b6b-06f7-4e85-8985-e056f79018c3.jpg)
 ![20220219_003321](https://user-images.githubusercontent.com/26210075/154787878-24ca0bb8-0aa1-4003-9a09-c4a71b88ccad.jpg)
 ![20220219_003315](https://user-images.githubusercontent.com/26210075/154787880-94d1b392-31f6-45ca-9c58-b04124aa1a45.jpg)
+
+ The PCB is attached to the lower housing through two screws and two plastic clips
+ 
+![20220219_003758](https://user-images.githubusercontent.com/26210075/154787982-6648504c-891f-4efe-908d-ae1886471e46.jpg)
